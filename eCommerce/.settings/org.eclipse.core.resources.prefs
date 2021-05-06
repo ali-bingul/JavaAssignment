@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/javaKampGun5Odev1/Main.java=UTF-8
+encoding//src/javaKampGun5Odev1/amazonEmail/AmazonMailManager.java=UTF-8
+encoding//src/javaKampGun5Odev1/business/concretes/AuthManager.java=UTF-8
+encoding//src/javaKampGun5Odev1/business/concretes/UserManager.java=UTF-8
+encoding//src/javaKampGun5Odev1/core/GoogleAuthManagerAdapter.java=UTF-8
+encoding//src/javaKampGun5Odev1/googleEmail/GoogleMailManager.java=UTF-8
